@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação segue as redes abaixo!
+### Redes Sociais
  
 <div>
   <a href="https://www.youtube.com/melquisedec-github" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
