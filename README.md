@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Melquisedec
+## Bem-vindo
 
  <div>
    <a href="https://github.com/melquisedec-github">
